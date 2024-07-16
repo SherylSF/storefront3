@@ -23,6 +23,7 @@ whitenoise = "*"
 gunicorn = "*"
 dj-database-url = "*"
 psycopg2-binary = "*"
+mysql = "*"
 
 [dev-packages]
 autopep8 = "*"
