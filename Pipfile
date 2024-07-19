@@ -25,6 +25,7 @@ dj-database-url = "*"
 psycopg2-binary = "*"
 mysql = "*"
 django-silk = "*"
+pillow = "*"
 
 [dev-packages]
 autopep8 = "*"
